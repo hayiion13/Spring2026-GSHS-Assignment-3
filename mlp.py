@@ -36,7 +36,6 @@ def implement_xor() -> nn.Module:
     epochs = 2000
     optimizer = optim.Adam(model.parameters(), lr=0.1)
 
-
     for _ in range(epochs):
         optimizer.zero_grad()
         predictions = model(X)
