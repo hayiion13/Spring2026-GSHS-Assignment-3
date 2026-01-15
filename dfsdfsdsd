@@ -1,0 +1,23 @@
+[33mcommit ce3a299857e0611411e7b44369d363003c75fff1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: hyiion13 <karenchae1379@gmail.com>
+Date:   Thu Jan 15 20:45:36 2026 +0900
+
+    my first attempt
+
+[33mcommit 9409f27624899fe474f55c6e88b5f85d9ae1c49b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: havya7 <61291792+havya7@users.noreply.github.com>
+Date:   Mon Jan 12 00:57:09 2026 -0800
+
+    Fix formatting in README
+
+[33mcommit d034df1078fa38e0c883d6dd6a19389d9a10ae92[m
+Author: Havya Sree Karuturi <havya@Havyas-MacBook-Pro.local>
+Date:   Mon Jan 12 00:56:05 2026 -0800
+
+    Adding github workflows
+
+[33mcommit 02939dae337d23c7282c58d654bf3e3bdf0358f2[m
+Author: havya7 <61291792+havya7@users.noreply.github.com>
+Date:   Sat Jan 10 17:23:28 2026 -0800
+
+    Initial commit of MLP XOR predictor
